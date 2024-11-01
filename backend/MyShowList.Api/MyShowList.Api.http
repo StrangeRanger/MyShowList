@@ -1,0 +1,6 @@
+@MyShowList.Api_HostAddress = http://localhost:5078
+
+GET {{MyShowList.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
